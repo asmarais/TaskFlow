@@ -28,5 +28,5 @@ Create new tasks, specifying details such as title, description, start date and 
 Organize tasks by assigning them to a member.
 Delete completed tasks or those no longer relevant.
 
-## Contributuion
+## Contributing
 This project was developped by Iheb Timoumi and Asma Raies.
